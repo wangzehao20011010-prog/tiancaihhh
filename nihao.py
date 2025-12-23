@@ -7,7 +7,6 @@ Simple nihao (hello) program
 def nihao():
     """Print nihao greeting in Chinese"""
     print("你好 (nihao)!")
-    return "你好 (nihao)!"
 
 if __name__ == "__main__":
     nihao()
