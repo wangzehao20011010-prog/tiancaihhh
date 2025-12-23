@@ -1,0 +1,2 @@
+# Python requirements
+# No external dependencies required for the basic greeting application
