@@ -6,7 +6,7 @@ A simple greeting program
 """
 
 def main():
-    """打印问候信息"""
+    """打印问候信息 / Print greeting messages"""
     print("你好，世界！")
     print("Hello, World!")
 
