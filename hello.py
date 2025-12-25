@@ -5,6 +5,9 @@
 A simple greeting program
 """
 
+WELCOME_MESSAGE = "欢迎来到源代码的小窝！"
+
+
 def greet(name="朋友"):
     """
     问候函数
@@ -16,7 +19,7 @@ def greet(name="朋友"):
     返回:
         问候语字符串
     """
-    return f"你好，{name}！欢迎来到源代码的小窝！"
+    return f"你好，{name}！{WELCOME_MESSAGE}"
 
 
 def main():
